@@ -365,9 +365,15 @@ public class ReusableLibrary {
 		workbook.write(out);
 
 	}
+
 	private void newMethodCreation() {
 		// TODO Auto-generated method stub
 		System.out.println("Logic done by Perf");
 	}
 
+
+	private void newReusableMethod() {
+		// TODO Auto-generated method stub
+		System.out.println("Method added by Dev");
+	}
 }
